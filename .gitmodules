@@ -1,0 +1,3 @@
+[submodule "lnbits-legend"]
+	path = lnbits-legend
+	url = https://github.com/lnbits/lnbits-legend.git
